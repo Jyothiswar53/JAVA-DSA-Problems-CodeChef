@@ -1,3 +1,17 @@
+/*MIN To MAX
+
+You are given an array A consisting of N integers.
+
+Let M be the minimum value present in the array initially.
+
+You are allowed to perform the following operation any number of times:
+	•	Choose any element A[i] in the array (1 ≤ i ≤ N)
+	•	Replace it with any integer X, where (1 ≤ X ≤ 100)
+
+ What is the minimum number of operations needed to achieve this?
+
+*/
+
 import java.util.Scanner;
 
 public class MinToMax {
