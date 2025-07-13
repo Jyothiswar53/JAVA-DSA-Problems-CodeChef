@@ -18,9 +18,9 @@ class Monopoly {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter number of test cases : ");
-        int t = s.nextInt();
+        int T = s.nextInt();
 
-        while (t-- > 0) {
+        while (T-- > 0) {
             System.out.println("Enter profit made by Company A : ");
             int P = s.nextInt();
 
